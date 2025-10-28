@@ -402,5 +402,107 @@
       "Emoji": "DBDRData/Ranks/Survivor/Rank20.png",
       "RequiredElo": 0
     }
+  ],
+  "Team": [
+    {
+      "RoleName": "Entity",
+      "RGB": [
+        255,
+        214,
+        209
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Entity.png",
+      "RequiredElo": 1800
+    },
+    {
+      "RoleName": "Fogborn",
+      "RGB": [
+        255,
+        29,
+        206
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Fogborn.png",
+      "RequiredElo": 1600
+    },
+    {
+      "RoleName": "Iridescent",
+      "RGB": [
+        237,
+        33,
+        0
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Iridescent.png",
+      "RequiredElo": 1400
+    },
+    {
+      "RoleName": "Emerald",
+      "RGB": [
+        80,
+        200,
+        120
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Emerald.png",
+      "RequiredElo": 1200
+    },
+    {
+      "RoleName": "Diamond",
+      "RGB": [
+        15,
+        82,
+        186
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Diamond.png",
+      "RequiredElo": 1000
+    },
+    {
+      "RoleName": "Platinum",
+      "RGB": [
+        0,
+        255,
+        240
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Platinum.png",
+      "RequiredElo": 800
+    },
+    {
+      "RoleName": "Gold",
+      "RGB": [
+        218,
+        165,
+        32
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Gold.png",
+      "RequiredElo": 600
+    },
+    {
+      "RoleName": "Silver",
+      "RGB": [
+        192,
+        192,
+        192
+      ],
+      "Emoji": "\uD83E\uDEBD",
+      "RequiredElo": 400
+    },
+    {
+      "RoleName": "Bronze",
+      "RGB": [
+        72,
+        45,
+        20
+      ],
+      "Emoji": "DBDRData/Ranks/Team/Bronze.png",
+      "RequiredElo": 200
+    },
+    {
+      "RoleName": "Ash",
+      "RGB": [
+        70,
+        70,
+        70
+      ],
+      "Emoji": "\uD83D\uDCA8",
+      "RequiredElo": 0
+    }
   ]
 }
