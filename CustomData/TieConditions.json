@@ -1,1 +1,486 @@
-
+[
+    {
+        "Name": "The Blight",
+        "ID": "20",
+        "Tier": "1",
+      	"Conditions": [
+      	12
+      	]
+    },
+    {
+        "Name": "The Nurse",
+        "ID": "3",
+        "Tier": "1",
+      	"Conditions": [
+      	12
+      	]
+    },
+    {
+        "Name": "The Dark Lord",
+        "ID": "36",
+        "Tier": "2",
+      	"Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Hillbilly",
+        "ID": "2",
+        "Tier": "2",
+      	"Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Krasue",
+        "ID": "40",
+        "Tier": "2",
+	      "Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Ghoul",
+        "ID": "38",
+        "Tier": "2",
+        "Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Spirit",
+        "ID": "12",
+        "Tier": "2",
+        "Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Twins",
+        "ID": "21",
+        "Tier": "2",
+        "Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+    {
+        "Name": "The Clown",
+        "ID": "11",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Executioner",
+        "ID": "19",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Good Guy",
+        "ID": "33",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Nightmare",
+        "ID": "9",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Oni",
+        "ID": "17",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Singularity",
+        "ID": "31",
+        "Tier": "3",
+        "Conditions": [
+      	9,
+      	9,
+      	8,
+      	8,
+      	7
+      	]
+    },
+    {
+        "Name": "The Animatronic",
+        "ID": "39",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Artist",
+        "ID": "25",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Deathslinger",
+        "ID": "18",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Demogorgon",
+        "ID": "16",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Houndmaster",
+        "ID": "37",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Huntress",
+        "ID": "7",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Knight",
+        "ID": "29",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Legion",
+        "ID": "13",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Lich",
+        "ID": "35",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Mastermind",
+        "ID": "28",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Pig",
+        "ID": "10",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Plague",
+        "ID": "14",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Shape",
+        "ID": "4",
+        "Tier": "4",
+        "Conditions": [
+        7,
+        7,
+        7,
+        6,
+        6
+        ]
+    },
+    {
+        "Name": "The Trickster",
+        "ID": "22",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Unknown",
+        "ID": "34",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Wraith",
+        "ID": "1",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Xenomorph",
+        "ID": "32",
+        "Tier": "4",
+        "Conditions": [
+      	7,
+      	7,
+      	7,
+      	6,
+      	6
+      	]
+    },
+    {
+        "Name": "The Cannibal",
+        "ID": "8",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Cenobite",
+        "ID": "24",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Doctor",
+        "ID": "6",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Dredge",
+        "ID": "27",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Ghost Face",
+        "ID": "15",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Hag",
+        "ID": "5",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Nemesis",
+        "ID": "23",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Onryo",
+        "ID": "26",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Skull Merchant",
+        "ID": "30",
+        "Tier": "5",
+        "Conditions": [
+      	6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    },
+    {
+        "Name": "The Trapper",
+        "ID": "0",
+        "Tier": "5",
+        "Conditions": [
+	      6,
+      	6,
+      	6,
+      	6,
+      	5
+      	]
+    }
+]
