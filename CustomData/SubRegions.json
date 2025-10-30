@@ -1,66 +1,146 @@
 [
   {
     "Name": "North Americe West",
-    "Abbreviation": "NAW"
+    "Abbreviation": "NAW",
+    "Color": [
+      240,
+      120,
+      208
+    ]
   },
   {
     "Name": "North America Central",
-    "Abbreviation": "NAC"
+    "Abbreviation": "NAC",
+    "Color": [
+      9,
+      99,
+      0
+    ]
   },
   {
     "Name": "North America East",
-    "Abbreviation": "NAE"
+    "Abbreviation": "NAE",
+    "Color": [
+      145,
+      120,
+      240
+    ]
   },
   {
     "Name": "Caribbean",
-    "Abbreviation": "CAR"
+    "Abbreviation": "CAR",
+    "Color": [
+      183,
+      183,
+      183
+    ]
   },
   {
     "Name": "South America",
-    "Abbreviation": "SA"
+    "Abbreviation": "SA",
+    "Color": [
+      215,
+      0,
+      0
+    ]
   },
   {
     "Name": "United Kingdom",
-    "Abbreviation": "UK"
+    "Abbreviation": "UK",
+    "Color": [
+      239,
+      240,
+      0
+    ]
   },
   {
     "Name": "Europe West",
-    "Abbreviation": "EUW"
+    "Abbreviation": "EUW",
+    "Color": [
+      55,
+      83,
+      42
+    ]
   },
   {
     "Name": "Europe Central",
-    "Abbreviation": "EUC"
+    "Abbreviation": "EUC",
+    "Color": [
+      0,
+      209,
+      178
+    ]
   },
   {
     "Name": "Europe East",
-    "Abbreviation": "EUE"
+    "Abbreviation": "EUE",
+    "Color": [
+      199,
+      210,
+      115
+    ]
   },
   {
     "Name": "North Africa",
-    "Abbreviation": "NAF"
+    "Abbreviation": "NAF",
+    "Color": [
+      114,
+      0,
+      155
+    ]
   },
   {
     "Name": "Middle East",
-    "Abbreviation": "ME"
+    "Abbreviation": "ME",
+    "Color": [
+      200,
+      0,
+      112
+    ]
   },
   {
     "Name": "South Asia",
-    "Abbreviation": "SAS"
+    "Abbreviation": "SAS",
+    "Color": [
+      83,
+      112,
+      27
+    ]
   },
   {
     "Name": "East Asia",
-    "Abbreviation": "EAS"
+    "Abbreviation": "EAS",
+    "Color": [
+      169,
+      83,
+      70
+    ]
   },
   {
     "Name": "South-East Asia",
-    "Abbreviation": "SEA"
+    "Abbreviation": "SEA",
+    "Color": [
+      8,
+      118,
+      135
+    ]
   },
   {
     "Name": "Oceania",
-    "Abbreviation": "OCE"
+    "Abbreviation": "OCE",
+    "Color": [
+      53,
+      235,
+      255
+    ]
   },
   {
     "Name": "Japan",
-    "Abbreviation": "JP"
+    "Abbreviation": "JP",
+    "Color": [
+      61,
+      54,
+      254
+    ]
   }
 ]
