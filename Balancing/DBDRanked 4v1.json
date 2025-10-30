@@ -7,17 +7,17 @@
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
-				"7",
-				"84",
+				"122",
 				"288",
 				"289",
-				"105",
-				"122"
+				"7",
+				"84",
+				"105"
 			],
 			"KillerIndvPerkBans": [
+				"171",
 				"150",
-				"155",
-				"171"
+				"155"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
