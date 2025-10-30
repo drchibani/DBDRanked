@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "North Americe West",
+    "Abbreviation": "NAW"
+  },
+  {
+    "Name": "North America Central",
+    "Abbreviation": "NAC"
+  },
+  {
+    "Name": "North America East",
+    "Abbreviation": "NAE"
+  },
+  {
+    "Name": "Caribbean",
+    "Abbreviation": "CAR"
+  },
+  {
+    "Name": "South America",
+    "Abbreviation": "SA"
+  },
+  {
+    "Name": "United Kingdom",
+    "Abbreviation": "UK"
+  },
+  {
+    "Name": "Europe West",
+    "Abbreviation": "EUW"
+  },
+  {
+    "Name": "Europe Central",
+    "Abbreviation": "EUC"
+  },
+  {
+    "Name": "Europe East",
+    "Abbreviation": "EUE"
+  },
+  {
+    "Name": "North Africa",
+    "Abbreviation": "NAF"
+  },
+  {
+    "Name": "Middle East",
+    "Abbreviation": "ME"
+  },
+  {
+    "Name": "South Asia",
+    "Abbreviation": "SAS"
+  },
+  {
+    "Name": "East Asia",
+    "Abbreviation": "EAS"
+  },
+  {
+    "Name": "South-East Asia",
+    "Abbreviation": "SEA"
+  },
+  {
+    "Name": "Oceania",
+    "Abbreviation": "OCE"
+  },
+  {
+    "Name": "Japan",
+    "Abbreviation": "JP"
+  }
+]
