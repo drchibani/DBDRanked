@@ -467,7 +467,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				94,
+				86
+			],
 			"ItemWhitelist": [
 				4,
 				5,
