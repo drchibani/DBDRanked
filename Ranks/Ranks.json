@@ -8,7 +8,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank1.png",
-      "RequiredElo": 3800
+      "RequiredElo": 1350
     },
     {
       "RoleName": "Rank2Killer",
@@ -18,7 +18,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank2.png",
-      "RequiredElo": 3600
+      "RequiredElo": 1260
     },
     {
       "RoleName": "Rank3Killer",
@@ -28,7 +28,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank3.png",
-      "RequiredElo": 3400
+      "RequiredElo": 1170
     },
     {
       "RoleName": "Rank4Killer",
@@ -38,7 +38,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank4.png",
-      "RequiredElo": 3200
+      "RequiredElo": 1080
     },
     {
       "RoleName": "Rank5Killer",
@@ -48,7 +48,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank5.png",
-      "RequiredElo": 3000
+      "RequiredElo": 990
     },
     {
       "RoleName": "Rank6Killer",
@@ -58,7 +58,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank6.png",
-      "RequiredElo": 2800
+      "RequiredElo": 900
     },
     {
       "RoleName": "Rank7Killer",
@@ -68,7 +68,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank7.png",
-      "RequiredElo": 2600
+      "RequiredElo": 810
     },
     {
       "RoleName": "Rank8Killer",
@@ -78,7 +78,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank8.png",
-      "RequiredElo": 2400
+      "RequiredElo": 720
     },
     {
       "RoleName": "Rank9Killer",
@@ -88,7 +88,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank9.png",
-      "RequiredElo": 2200
+      "RequiredElo": 645
     },
     {
       "RoleName": "Rank10Killer",
@@ -98,7 +98,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank10.png",
-      "RequiredElo": 2000
+      "RequiredElo": 570
     },
     {
       "RoleName": "Rank11Killer",
@@ -108,7 +108,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank11.png",
-      "RequiredElo": 1800
+      "RequiredElo": 495
     },
     {
       "RoleName": "Rank12Killer",
@@ -118,7 +118,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank12.png",
-      "RequiredElo": 1600
+      "RequiredElo": 420
     },
     {
       "RoleName": "Rank13Killer",
@@ -128,7 +128,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank13.png",
-      "RequiredElo": 1400
+      "RequiredElo": 360
     },
     {
       "RoleName": "Rank14Killer",
@@ -138,7 +138,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank14.png",
-      "RequiredElo": 1200
+      "RequiredElo": 300
     },
     {
       "RoleName": "Rank15Killer",
@@ -148,7 +148,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank15.png",
-      "RequiredElo": 1000
+      "RequiredElo": 240
     },
     {
       "RoleName": "Rank16Killer",
@@ -158,7 +158,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank16.png",
-      "RequiredElo": 800
+      "RequiredElo": 180
     },
     {
       "RoleName": "Rank17Killer",
@@ -168,7 +168,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank17.png",
-      "RequiredElo": 600
+      "RequiredElo": 135
     },
     {
       "RoleName": "Rank18Killer",
@@ -178,7 +178,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank18.png",
-      "RequiredElo": 400
+      "RequiredElo": 90
     },
     {
       "RoleName": "Rank19Killer",
@@ -188,7 +188,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Killer/Rank19.png",
-      "RequiredElo": 200
+      "RequiredElo": 45
     },
     {
       "RoleName": "Rank20Killer",
@@ -210,7 +210,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank1.png",
-      "RequiredElo": 3800
+      "RequiredElo": 1350
     },
     {
       "RoleName": "Rank2Survivor",
@@ -220,7 +220,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank2.png",
-      "RequiredElo": 3600
+      "RequiredElo": 1260
     },
     {
       "RoleName": "Rank3Survivor",
@@ -230,7 +230,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank3.png",
-      "RequiredElo": 3400
+      "RequiredElo": 1170
     },
     {
       "RoleName": "Rank4Survivor",
@@ -240,7 +240,7 @@
         7
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank4.png",
-      "RequiredElo": 3200
+      "RequiredElo": 1080
     },
     {
       "RoleName": "Rank5Survivor",
@@ -250,7 +250,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank5.png",
-      "RequiredElo": 3000
+      "RequiredElo": 990
     },
     {
       "RoleName": "Rank6Survivor",
@@ -260,7 +260,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank6.png",
-      "RequiredElo": 2800
+      "RequiredElo": 900
     },
     {
       "RoleName": "Rank7Survivor",
@@ -270,7 +270,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank7.png",
-      "RequiredElo": 2600
+      "RequiredElo": 810
     },
     {
       "RoleName": "Rank8Survivor",
@@ -280,7 +280,7 @@
         172
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank8.png",
-      "RequiredElo": 2400
+      "RequiredElo": 720
     },
     {
       "RoleName": "Rank9Survivor",
@@ -290,7 +290,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank9.png",
-      "RequiredElo": 2200
+      "RequiredElo": 645
     },
     {
       "RoleName": "Rank10Survivor",
@@ -300,7 +300,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank10.png",
-      "RequiredElo": 2000
+      "RequiredElo": 570
     },
     {
       "RoleName": "Rank11Survivor",
@@ -310,7 +310,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank11.png",
-      "RequiredElo": 1800
+      "RequiredElo": 495
     },
     {
       "RoleName": "Rank12Survivor",
@@ -320,7 +320,7 @@
         41
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank12.png",
-      "RequiredElo": 1600
+      "RequiredElo": 420
     },
     {
       "RoleName": "Rank13Survivor",
@@ -330,7 +330,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank13.png",
-      "RequiredElo": 1400
+      "RequiredElo": 360
     },
     {
       "RoleName": "Rank14Survivor",
@@ -340,7 +340,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank14.png",
-      "RequiredElo": 1200
+      "RequiredElo": 300
     },
     {
       "RoleName": "Rank15Survivor",
@@ -350,7 +350,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank15.png",
-      "RequiredElo": 1000
+      "RequiredElo": 240
     },
     {
       "RoleName": "Rank16Survivor",
@@ -360,7 +360,7 @@
         97
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank16.png",
-      "RequiredElo": 800
+      "RequiredElo": 180
     },
     {
       "RoleName": "Rank17Survivor",
@@ -370,7 +370,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank17.png",
-      "RequiredElo": 600
+      "RequiredElo": 135
     },
     {
       "RoleName": "Rank18Survivor",
@@ -380,7 +380,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank18.png",
-      "RequiredElo": 400
+      "RequiredElo": 90
     },
     {
       "RoleName": "Rank19Survivor",
@@ -390,7 +390,7 @@
         85
       ],
       "Emoji": "DBDRData/Ranks/Survivor/Rank19.png",
-      "RequiredElo": 200
+      "RequiredElo": 45
     },
     {
       "RoleName": "Rank20Survivor",
