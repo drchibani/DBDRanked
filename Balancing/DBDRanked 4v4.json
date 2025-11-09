@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked 4v4",
-	"Version": 1760934395,
+	"Version": 1762647490,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -45,6 +45,7 @@
 				"59",
 				"289",
 				"62",
+				"64",
 				"66",
 				"67",
 				"269",
@@ -78,6 +79,7 @@
 				"120",
 				"122",
 				"124",
+				"128",
 				"254",
 				"130"
 			],
@@ -154,7 +156,6 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
-				"181",
 				"151",
 				"220"
 			],
@@ -181,8 +182,7 @@
 				"109",
 				"253",
 				"121",
-				"127",
-				"128"
+				"127"
 			],
 			"KillerIndvPerkBans": [
 				"170"
@@ -232,8 +232,7 @@
 				"109",
 				"253",
 				"121",
-				"127",
-				"128"
+				"127"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -276,8 +275,7 @@
 				"112",
 				"253",
 				"121",
-				"127",
-				"128"
+				"127"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -307,7 +305,6 @@
 				"56",
 				"57",
 				"61",
-				"64",
 				"65",
 				"69",
 				"76",
@@ -328,8 +325,7 @@
 				"112",
 				"253",
 				"121",
-				"127",
-				"128"
+				"127"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -580,7 +576,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"23"
@@ -653,6 +651,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"36",
+				"38",
 				"80",
 				"96"
 			],
@@ -731,6 +730,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
+				"181",
 				"184"
 			],
 			"KillerComboPerkBans": [],
@@ -805,16 +805,23 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"85",
+				"97",
+				"111",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -949,7 +956,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"245"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26"
@@ -1318,6 +1327,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"181",
 				"161"
 			],
 			"KillerComboPerkBans": [],
@@ -1752,7 +1762,7 @@
 		{
 			"Name": "The Ghost Face",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20"
 			],
@@ -2117,7 +2127,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"142"
+				"142",
+				"181"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -2216,7 +2227,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2273,7 +2286,7 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
@@ -2350,7 +2363,7 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -2791,7 +2804,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"34"
 			],
@@ -2933,7 +2946,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"2"
 			],
@@ -3304,11 +3317,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -3516,7 +3529,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -3661,7 +3674,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
@@ -3733,7 +3746,7 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"6"
 			],
