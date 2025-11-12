@@ -185,7 +185,8 @@
 				"127"
 			],
 			"KillerIndvPerkBans": [
-				"170"
+				"170",
+				"181"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -327,7 +328,9 @@
 				"121",
 				"127"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		}
@@ -1386,7 +1389,7 @@
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"34"
 			],
@@ -1762,7 +1765,7 @@
 		{
 			"Name": "The Ghost Face",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"20"
 			],
@@ -2227,9 +2230,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"181"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2804,7 +2805,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"34"
 			],
