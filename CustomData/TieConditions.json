@@ -15,11 +15,35 @@
       	12
       	]
     },
+	{
+        "Name": "The Clown",
+        "ID": "11",
+        "Tier": "2",
+        "Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
     {
         "Name": "The Dark Lord",
         "ID": "36",
         "Tier": "2",
       	"Conditions": [
+      	10,
+      	10,
+      	9,
+      	9,
+      	8
+      	]
+    },
+	{
+        "Name": "The Ghoul",
+        "ID": "38",
+        "Tier": "2",
+        "Conditions": [
       	10,
       	10,
       	9,
@@ -43,7 +67,7 @@
         "Name": "The Krasue",
         "ID": "40",
         "Tier": "2",
-	      "Conditions": [
+	    "Conditions": [
       	10,
       	10,
       	9,
@@ -51,9 +75,9 @@
       	8
       	]
     },
-    {
-        "Name": "The Ghoul",
-        "ID": "38",
+	{
+        "Name": "The Singularity",
+        "ID": "31",
         "Tier": "2",
         "Conditions": [
       	10,
@@ -87,9 +111,33 @@
       	8
       	]
     },
+	{
+        "Name": "The Animatronic",
+        "ID": "39",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
     {
-        "Name": "The Clown",
-        "ID": "11",
+        "Name": "The Artist",
+        "ID": "25",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Deathslinger",
+        "ID": "18",
         "Tier": "3",
         "Conditions": [
       	8,
@@ -123,6 +171,42 @@
       	7
       	]
     },
+	{
+        "Name": "The Houndmaster",
+        "ID": "37",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+    {
+        "Name": "The Huntress",
+        "ID": "7",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
+	{
+        "Name": "The Mastermind",
+        "ID": "28",
+        "Tier": "3",
+        "Conditions": [
+      	8,
+      	8,
+      	8,
+      	7,
+      	7
+      	]
+    },
     {
         "Name": "The Nightmare",
         "ID": "9",
@@ -147,45 +231,33 @@
       	7
       	]
     },
-    {
-        "Name": "The Singularity",
-        "ID": "31",
+	{
+        "Name": "The Trickster",
+        "ID": "22",
         "Tier": "3",
         "Conditions": [
-      	9,
-      	9,
       	8,
       	8,
+      	8,
+      	7,
       	7
       	]
     },
     {
-        "Name": "The Animatronic",
-        "ID": "39",
-        "Tier": "4",
+        "Name": "The Xenomorph",
+        "ID": "32",
+        "Tier": "3",
         "Conditions": [
+      	8,
+      	8,
+      	8,
       	7,
-      	7,
-      	7,
-      	6,
-      	6
+      	7
       	]
     },
-    {
-        "Name": "The Artist",
-        "ID": "25",
-        "Tier": "4",
-        "Conditions": [
-      	7,
-      	7,
-      	7,
-      	6,
-      	6
-      	]
-    },
-    {
-        "Name": "The Deathslinger",
-        "ID": "18",
+	{
+        "Name": "The Cenobite",
+        "ID": "24",
         "Tier": "4",
         "Conditions": [
       	7,
@@ -207,21 +279,9 @@
       	6
       	]
     },
-    {
-        "Name": "The Houndmaster",
-        "ID": "37",
-        "Tier": "4",
-        "Conditions": [
-      	7,
-      	7,
-      	7,
-      	6,
-      	6
-      	]
-    },
-    {
-        "Name": "The Huntress",
-        "ID": "7",
+	{
+        "Name": "The Doctor",
+        "ID": "6",
         "Tier": "4",
         "Conditions": [
       	7,
@@ -267,9 +327,9 @@
       	6
       	]
     },
-    {
-        "Name": "The Mastermind",
-        "ID": "28",
+	{
+        "Name": "The Nemesis",
+        "ID": "23",
         "Tier": "4",
         "Conditions": [
       	7,
@@ -316,18 +376,6 @@
         ]
     },
     {
-        "Name": "The Trickster",
-        "ID": "22",
-        "Tier": "4",
-        "Conditions": [
-      	7,
-      	7,
-      	7,
-      	6,
-      	6
-      	]
-    },
-    {
         "Name": "The Unknown",
         "ID": "34",
         "Tier": "4",
@@ -352,44 +400,8 @@
       	]
     },
     {
-        "Name": "The Xenomorph",
-        "ID": "32",
-        "Tier": "4",
-        "Conditions": [
-      	7,
-      	7,
-      	7,
-      	6,
-      	6
-      	]
-    },
-    {
         "Name": "The Cannibal",
         "ID": "8",
-        "Tier": "5",
-        "Conditions": [
-      	6,
-      	6,
-      	6,
-      	6,
-      	5
-      	]
-    },
-    {
-        "Name": "The Cenobite",
-        "ID": "24",
-        "Tier": "5",
-        "Conditions": [
-      	6,
-      	6,
-      	6,
-      	6,
-      	5
-      	]
-    },
-    {
-        "Name": "The Doctor",
-        "ID": "6",
         "Tier": "5",
         "Conditions": [
       	6,
@@ -426,18 +438,6 @@
     {
         "Name": "The Hag",
         "ID": "5",
-        "Tier": "5",
-        "Conditions": [
-      	6,
-      	6,
-      	6,
-      	6,
-      	5
-      	]
-    },
-    {
-        "Name": "The Nemesis",
-        "ID": "23",
         "Tier": "5",
         "Conditions": [
       	6,
