@@ -15,9 +15,12 @@
 				"105"
 			],
 			"KillerIndvPerkBans": [
-				"171",
 				"150",
-				"155"
+				"155",
+				"163",
+				"171",
+				"177",
+				"178"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -31,28 +34,81 @@
 		},
 		{
 			"Name": "Tier 2",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"20",
+				"52",
+				"96",
+				"275"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 3",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13",
+				"20",
+				"36",
+				"52",
+				"60",
+				"74",
+				"80",
+				"90",
+				"96",
+				"109",
+				"127",
+				"254",
+				"275"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 4",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13",
+				"20",
+				"21",
+				"36",
+				"38",
+				"52",
+				"60",
+				"74",
+				"80",
+				"90",
+				"96",
+				"109",
+				"121",
+				"127",
+				"254",
+				"275"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 5",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13",
+				"20",
+				"21",
+				"36",
+				"38",
+				"52",
+				"60",
+				"74",
+				"80",
+				"90",
+				"96",
+				"109",
+				"121",
+				"127",
+				"254",
+				"275"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -644,11 +700,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -739,11 +795,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1121,11 +1177,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1792,11 +1848,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2183,11 +2239,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2278,11 +2334,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2373,11 +2429,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2470,11 +2526,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2757,11 +2813,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3047,11 +3103,12 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3144,11 +3201,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3629,11 +3686,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3822,11 +3879,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				4
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				4
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
