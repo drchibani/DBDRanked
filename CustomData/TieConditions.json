@@ -160,6 +160,14 @@
       	]
     },
 	{
+        "Name": "The Plague",
+        "ID": "14",
+        "Tier": "3",
+        "Conditions": [
+      	7
+      	]
+    },
+	{
         "Name": "The Trickster",
         "ID": "22",
         "Tier": "3",
@@ -234,14 +242,6 @@
     {
         "Name": "The Pig",
         "ID": "10",
-        "Tier": "4",
-        "Conditions": [
-      	6
-      	]
-    },
-    {
-        "Name": "The Plague",
-        "ID": "14",
         "Tier": "4",
         "Conditions": [
       	6
