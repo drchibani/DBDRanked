@@ -2,35 +2,77 @@
   {
     "Name": "General",
     "MapBans": [
-      42,
-      43,
-      44,
-      45,
-      46,
+      15,
+      21,
       23,
       24,
       25,
       26,
       27,
+      28,
+      29,
+      30,
+      36,
+      37,
+      38,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
       50,
       51,
       52,
       53,
-      15,
-      36,
-      38,
-      40,
-      41,
+      55,
       56
     ]
   },
   {
+    "Name": "The Wraith",
+    "MapBans": []
+  },
+  {
     "Name": "The Nurse",
     "MapBans": [
-      34,
-      28
+      17,
+      33,
+      34
     ]
-  }
+  },
+  {
+    "Name": "The Shape",
+    "MapBans": []
+  },
+  {
+    "Name": "The Pig",
+    "MapBans": []
+  },
+  {
+    "Name": "The Ghost Face",
+    "MapBans": []
+  },
+  {
+    "Name": "The Blight",
+    "MapBans": [
+      17,
+      33,
+      34
+    ]
+  },
+  {
+    "Name": "The Onryo",
+    "MapBans": []
+  },
+  {
+    "Name": "The Dredge",
+    "MapBans": []
+  },
 
 ]
+
 
