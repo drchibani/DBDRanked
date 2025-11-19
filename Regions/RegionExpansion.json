@@ -1,10 +1,10 @@
 {
   "NAE": [
     [
-      "NAE"
+      "NAE",
+       "NAC"
     ],
     [
-      "NAC",
       "NAW",
       "UK"
     ],
@@ -31,10 +31,10 @@
   ],
   "NAW": [
     [
-      "NAW"
+      "NAW",
+      "NAC"
     ],
     [
-      "NAC",
       "NAE"
     ],
     [
@@ -60,7 +60,9 @@
       "UK",
       "EUW",
       "EUC",
-      "EUE"
+      "EUE",
+      "NAF",
+      "ME"
     ],
     [
       "NAE"
@@ -74,14 +76,14 @@
       "EUW",
       "EUC",
       "EUE",
-      "UK"
+      "UK", 
+      "ME",
+      "NAF"
     ],
     [
-      "NAF",
-      "ME"
+      "NAE"
     ],
     [
-      "NAE",
       "NAC"
     ]
   ],
@@ -90,26 +92,28 @@
       "EUW",
       "EUC",
       "EUE",
-      "UK"
-    ],
-    [
+      "UK", 
       "NAF",
       "ME"
     ],
     [
       "NAE"
+    ],
+    [
+      "NAC"
     ]
   ],
   "EUE": [
     [
       "EUW",
       "EUC",
-      "EUE"
-    ],
-    [
+      "EUE",
       "UK",
       "NAF",
       "ME"
+    ],
+    [
+      "NAE"
     ]
   ],
   "NAF": [
@@ -151,25 +155,26 @@
   "EAS": [
     [
       "EAS",
-      "JP"
-    ],
-    [
+      "JP", 
       "SEA"
     ],
     [
       "SAS"
+    ],
+    [
+      "OCE"
     ]
   ],
   "SEA": [
     [
-      "SEA"
+      "SEA",
+      "EAS"
     ],
     [
-      "EAS",
-      "SAS",
       "JP"
     ],
     [
+      "SAS",
       "OCE"
     ]
   ],
@@ -198,5 +203,6 @@
     ]
   ]
 }
+
 
 
