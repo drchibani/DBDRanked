@@ -1,7 +1,7 @@
 [
   {
     "Name": "General",
-    "MapBans": [
+    "AllowedMaps": [
       15,
       21,
       23,
@@ -33,7 +33,7 @@
   },
   {
     "Name": "The Blight",
-    "MapBans": [
+    "AllowedMaps": [
       5,
       11,
       20,
@@ -46,7 +46,7 @@
   },
   {
     "Name": "The Nurse",
-    "MapBans": [
+    "AllowedMaps": [
       5,
       11,
       20,
@@ -59,7 +59,7 @@
   },
   {
     "Name": "The Clown",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -68,7 +68,7 @@
   },
   {
     "Name": "The Dark Lord",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -77,7 +77,7 @@
   },
   {
     "Name": "The Ghoul",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -86,7 +86,7 @@
   },
   {
     "Name": "The Hillbilly",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -95,7 +95,7 @@
   },
   {
     "Name": "The Krasue",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -104,7 +104,7 @@
   },
   {
     "Name": "The Singularity",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -113,7 +113,7 @@
   },
   {
     "Name": "The Spirit",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -122,7 +122,7 @@
   },
   {
     "Name": "The Twins",
-    "MapBans": [
+    "AllowedMaps": [
       11,
       20,
       32,
@@ -131,7 +131,7 @@
   },
   {
     "Name": "The Animatronic",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -147,7 +147,7 @@
   },
   {
     "Name": "The Artist",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -163,7 +163,7 @@
   },
   {
     "Name": "The Deathslinger",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -179,7 +179,7 @@
   },
   {
     "Name": "The Executioner",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -195,7 +195,7 @@
   },
   {
     "Name": "The Good Guy",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -211,7 +211,7 @@
   },
   {
     "Name": "The Houndmaster",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -227,7 +227,7 @@
   },
   {
     "Name": "The Huntress",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -243,7 +243,7 @@
   },
   {
     "Name": "The Mastermind",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -259,7 +259,7 @@
   },
   {
     "Name": "The Nightmare",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -275,7 +275,7 @@
   },
   {
     "Name": "The Oni",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -291,7 +291,7 @@
   },
   {
     "Name": "The Plague",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -307,7 +307,7 @@
   },
   {
     "Name": "The Trickster",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -323,7 +323,7 @@
   },
   {
     "Name": "The Xenomorph",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       6,
@@ -339,7 +339,7 @@
   },
   {
     "Name": "The Cenobite",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -358,7 +358,7 @@
   },
   {
     "Name": "The Demogorgon",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -377,7 +377,7 @@
   },
   {
     "Name": "The Doctor",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -396,7 +396,7 @@
   },
   {
     "Name": "The Knight",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -415,7 +415,7 @@
   },
   {
     "Name": "The Legion",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -434,7 +434,7 @@
   },
   {
     "Name": "The Lich",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -453,7 +453,7 @@
   },
   {
     "Name": "The Nemesis",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -472,7 +472,7 @@
   },
   {
     "Name": "The Pig",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -491,7 +491,7 @@
   },
   {
     "Name": "The Shape",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -510,7 +510,7 @@
   },
   {
     "Name": "The Unknown",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -529,7 +529,7 @@
   },
   {
     "Name": "The Wraith",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -548,7 +548,7 @@
   },
   {
     "Name": "The Cannibal",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -566,7 +566,7 @@
   },
   {
     "Name": "The Dredge",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -584,7 +584,7 @@
   },
   {
     "Name": "The Ghost Face",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -602,7 +602,7 @@
   },
   {
     "Name": "The Hag",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -620,7 +620,7 @@
   },
   {
     "Name": "The Onryo",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -638,7 +638,7 @@
   },
   {
     "Name": "The Skull Merchant",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -656,7 +656,7 @@
   },
   {
     "Name": "The Trapper",
-    "MapBans": [
+    "AllowedMaps": [
       1,
       2,
       3,
@@ -673,4 +673,5 @@
     ]
   }
 ]
+
 
