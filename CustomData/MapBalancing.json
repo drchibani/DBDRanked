@@ -1,646 +1,416 @@
 [
   {
-    "Name": "The Blight",
+    "Name": "The Trapper",
     "AllowedMaps": [
+      4,
       5,
-      11,
-      20,
-      30,
-      32,
       33,
-      34,
+      22,
       35
-    ]
-  },
-  {
-    "Name": "The Nurse",
-    "AllowedMaps": [
-      5,
-      11,
-      20,
-      30,
-      32,
-      33,
-      34,
-      35
-    ]
-  },
-  {
-    "Name": "The Clown",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Dark Lord",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Ghoul",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Hillbilly",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Krasue",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Singularity",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Spirit",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Twins",
-    "AllowedMaps": [
-      11,
-      20,
-      32,
-      33
-    ]
-  },
-  {
-    "Name": "The Animatronic",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Artist",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Deathslinger",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Executioner",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Good Guy",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Houndmaster",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Huntress",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Mastermind",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Nightmare",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Oni",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Plague",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Trickster",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Xenomorph",
-    "AllowedMaps": [
-      1,
-      2,
-      6,
-      7,
-      10,
-      16,
-      19,
-      31,
-      34,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Cenobite",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Demogorgon",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Doctor",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Knight",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Legion",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Lich",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Nemesis",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Pig",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Shape",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
-    ]
-  },
-  {
-    "Name": "The Unknown",
-    "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
     ]
   },
   {
     "Name": "The Wraith",
     "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      20,
-      31,
-      35,
-      39
+      33,
+      0,
+      22,
+      11,
+      18
     ]
   },
   {
-    "Name": "The Cannibal",
+    "Name": "The Hillbilly",
     "AllowedMaps": [
-      1,
-      2,
-      3,
       6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      31,
-      34,
-      39
+      9,
+      3,
+      43,
+      10
     ]
   },
   {
-    "Name": "The Dredge",
+    "Name": "The Nurse",
     "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
+      0,
+      8,
       16,
-      19,
-      31,
-      34,
-      39
+      43,
+      22
     ]
   },
   {
-    "Name": "The Ghost Face",
+    "Name": "The Shape",
     "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
+      8,
+      49,
       16,
-      19,
-      31,
-      34,
-      39
+      30,
+      17
     ]
   },
   {
     "Name": "The Hag",
     "AllowedMaps": [
-      1,
-      2,
-      3,
+      5,
+      33,
+      11,
+      22,
+      35
+    ]
+  },
+  {
+    "Name": "The Doctor",
+    "AllowedMaps": [
+      9,
+      0,
+      8,
+      13,
+      11
+    ]
+  },
+  {
+    "Name": "The Huntress",
+    "AllowedMaps": [
+      8,
+      33,
+      0,
+      30,
+      31
+    ]
+  },
+  {
+    "Name": "The Cannibal",
+    "AllowedMaps": [
+      33,
+      42,
+      30,
+      49,
+      48
+    ]
+  },
+  {
+    "Name": "The Nightmare",
+    "AllowedMaps": [
+      33,
+      8,
+      42,
+      30,
+      16
+    ]
+  },
+  {
+    "Name": "The Pig",
+    "AllowedMaps": [
+      8,
+      33,
+      11,
+      16,
+      17
+    ]
+  },
+  {
+    "Name": "The Clown",
+    "AllowedMaps": [
+      8,
+      33,
+      19,
+      49,
+      10
+    ]
+  },
+  {
+    "Name": "The Spirit",
+    "AllowedMaps": [
+      8,
+      33,
+      11,
+      22,
+      54
+    ]
+  },
+  {
+    "Name": "The Legion",
+    "AllowedMaps": [
+      33,
+      8,
+      11,
+      49,
+      48
+    ]
+  },
+  {
+    "Name": "The Plague",
+    "AllowedMaps": [
+      4,
+      8,
+      30,
+      13,
+      54
+    ]
+  },
+  {
+    "Name": "The Ghost Face",
+    "AllowedMaps": [
+      33,
+      49,
+      22,
+      15,
+      48
+    ]
+  },
+  {
+    "Name": "The Demogorgon",
+    "AllowedMaps": [
+      0,
+      5,
+      8,
+      13,
+      49
+    ]
+  },
+  {
+    "Name": "The Oni",
+    "AllowedMaps": [
+      0,
+      8,
+      11,
+      49,
+      47
+    ]
+  },
+  {
+    "Name": "The Deathslinger",
+    "AllowedMaps": [
+      4,
+      8,
+      16,
+      13,
+      54
+    ]
+  },
+  {
+    "Name": "The Executioner",
+    "AllowedMaps": [
+      8,
+      0,
+      7,
+      14,
+      43
+    ]
+  },
+  {
+    "Name": "The Blight",
+    "AllowedMaps": [
       6,
       7,
-      10,
-      12,
-      14,
-      16,
+      1,
+      47,
+      10
+    ]
+  },
+  {
+    "Name": "The Twins",
+    "AllowedMaps": [
+      6,
+      9,
+      43,
       19,
-      31,
-      34,
-      39
+      54
+    ]
+  },
+  {
+    "Name": "The Trickster",
+    "AllowedMaps": [
+      8,
+      33,
+      42,
+      49,
+      54
+    ]
+  },
+  {
+    "Name": "The Nemesis",
+    "AllowedMaps": [
+      33,
+      5,
+      18,
+      22,
+      35
+    ]
+  },
+  {
+    "Name": "The Cenobite",
+    "AllowedMaps": [
+      33,
+      8,
+      16,
+      22,
+      49
+    ]
+  },
+  {
+    "Name": "The Artist",
+    "AllowedMaps": [
+      5,
+      8,
+      11,
+      43,
+      54
     ]
   },
   {
     "Name": "The Onryo",
     "AllowedMaps": [
-      1,
-      2,
+      33,
+      13,
+      49,
+      17,
+      15
+    ]
+  },
+  {
+    "Name": "The Dredge",
+    "AllowedMaps": [
+      33,
+      0,
+      8,
+      13,
+      49
+    ]
+  },
+  {
+    "Name": "The Mastermind",
+    "AllowedMaps": [
+      0,
+      8,
       3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      31,
-      34,
-      39
+      49,
+      22
+    ]
+  },
+  {
+    "Name": "The Knight",
+    "AllowedMaps": [
+      33,
+      8,
+      49,
+      2,
+      54
     ]
   },
   {
     "Name": "The Skull Merchant",
     "AllowedMaps": [
-      1,
-      2,
-      3,
+      0,
+      9,
+      13,
+      22,
+      54
+    ]
+  },
+  {
+    "Name": "The Singularity",
+    "AllowedMaps": [
+      9,
+      5,
+      43,
+      39,
+      49
+    ]
+  },
+  {
+    "Name": "The Xenomorph",
+    "AllowedMaps": [
+      9,
+      42,
+      13,
+      17,
+      54
+    ]
+  },
+  {
+    "Name": "The Good Guy",
+    "AllowedMaps": [
+      33,
+      0,
+      13,
+      30,
+      54
+    ]
+  },
+  {
+    "Name": "The Unknown",
+    "AllowedMaps": [
+      8,
+      0,
+      49,
+      54,
+      34
+    ]
+  },
+  {
+    "Name": "The Lich",
+    "AllowedMaps": [
+      33,
+      11,
+      19,
+      49,
+      54
+    ]
+  },
+  {
+    "Name": "The Dark Lord",
+    "AllowedMaps": [
+      9,
+      42,
+      49,
+      13,
+      16
+    ]
+  },
+  {
+    "Name": "The Houndmaster",
+    "AllowedMaps": [
+      9,
+      42,
+      11,
+      30,
+      54
+    ]
+  },
+  {
+    "Name": "The Ghoul",
+    "AllowedMaps": [
+      4,
       6,
       7,
-      10,
-      12,
-      14,
-      16,
-      19,
       31,
-      34,
+      10
+    ]
+  },
+  {
+    "Name": "The Animatronic",
+    "AllowedMaps": [
+      8,
+      43,
+      13,
+      42,
       39
     ]
   },
   {
-    "Name": "The Trapper",
+    "Name": "The Krasue",
     "AllowedMaps": [
-      1,
-      2,
-      3,
-      6,
-      7,
-      10,
-      12,
-      14,
-      16,
-      19,
-      31,
-      34,
-      39
+      9,
+      33,
+      43,
+      18,
+      14
     ]
   }
 ]
+
 
 
 
