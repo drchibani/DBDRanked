@@ -125,6 +125,7 @@
 				"227",
 				"235",
 				"238",
+				"245",
 				"293",
 				"242"
 			],
@@ -959,9 +960,7 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"245"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26"
