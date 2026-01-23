@@ -1388,7 +1388,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"20"
 			],
 			"BalanceTiers": [
 				0,
@@ -1847,7 +1847,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"112",
+				"92"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2447,7 +2448,8 @@
 			"SurvivorIndvPerkBans": [
 				"23",
 				"101",
-				"53"
+				"53",
+				"70"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2804,7 +2806,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
