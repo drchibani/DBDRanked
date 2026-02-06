@@ -1,6 +1,6 @@
 {
-	"Name": "DBDRanked Championship",
-	"Version": 1770358782,
+	"Name": "DBDRanked Gold Standard",
+	"Version": 1770369571,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -168,8 +168,7 @@
 			"KillerIndvPerkBans": [
 				"170",
 				"151",
-				"220",
-				"297"
+				"220"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -660,7 +659,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"3"
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -755,7 +754,8 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"181",
-				"184"
+				"184",
+				"297"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -1351,7 +1351,6 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"181",
 				"161"
 			],
 			"KillerComboPerkBans": [],
@@ -2151,7 +2150,8 @@
 				"132",
 				"142",
 				"181",
-				"189"
+				"189",
+				"297"
 			],
 			"KillerComboPerkBans": [
 				[
