@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1770369571,
+	"Version": 1770873993,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -356,8 +356,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				35,
-				8
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -829,16 +828,21 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"85",
+				"97",
+				"111",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -893,8 +897,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				35,
-				5
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -907,7 +910,175 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"0",
+				"1",
+				"2",
+				"3",
+				"4",
+				"285",
+				"5",
+				"6",
+				"52",
+				"7",
+				"300",
+				"8",
+				"258",
+				"9",
+				"104",
+				"10",
+				"11",
+				"12",
+				"13",
+				"14",
+				"15",
+				"16",
+				"17",
+				"18",
+				"247",
+				"19",
+				"20",
+				"21",
+				"22",
+				"23",
+				"24",
+				"25",
+				"26",
+				"60",
+				"246",
+				"301",
+				"27",
+				"28",
+				"273",
+				"286",
+				"288",
+				"29",
+				"30",
+				"31",
+				"32",
+				"33",
+				"34",
+				"248",
+				"35",
+				"36",
+				"37",
+				"38",
+				"39",
+				"40",
+				"41",
+				"42",
+				"279",
+				"43",
+				"280",
+				"44",
+				"45",
+				"303",
+				"268",
+				"267",
+				"46",
+				"261",
+				"101",
+				"47",
+				"48",
+				"49",
+				"50",
+				"51",
+				"294",
+				"262",
+				"53",
+				"54",
+				"55",
+				"56",
+				"57",
+				"274",
+				"252",
+				"58",
+				"59",
+				"289",
+				"61",
+				"62",
+				"63",
+				"64",
+				"65",
+				"66",
+				"67",
+				"68",
+				"69",
+				"70",
+				"259",
+				"269",
+				"71",
+				"72",
+				"73",
+				"74",
+				"295",
+				"75",
+				"76",
+				"77",
+				"78",
+				"79",
+				"80",
+				"81",
+				"82",
+				"83",
+				"84",
+				"85",
+				"86",
+				"87",
+				"88",
+				"281",
+				"89",
+				"90",
+				"91",
+				"93",
+				"94",
+				"95",
+				"96",
+				"296",
+				"97",
+				"98",
+				"99",
+				"100",
+				"92",
+				"102",
+				"103",
+				"275",
+				"105",
+				"106",
+				"107",
+				"108",
+				"109",
+				"110",
+				"263",
+				"111",
+				"112",
+				"113",
+				"260",
+				"114",
+				"253",
+				"115",
+				"302",
+				"116",
+				"305",
+				"290",
+				"287",
+				"117",
+				"118",
+				"119",
+				"120",
+				"121",
+				"122",
+				"123",
+				"124",
+				"125",
+				"126",
+				"304",
+				"127",
+				"128",
+				"254",
+				"129",
+				"130"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1483,7 +1654,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"7"
 			],
 			"BalanceTiers": [
 				0,
@@ -2601,7 +2772,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"20"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -2885,7 +3056,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -3104,7 +3275,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -3316,7 +3487,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"16"
 			],
 			"BalanceTiers": [
 				0,
@@ -3394,18 +3565,16 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"65"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3608,7 +3777,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"2"
 			],
 			"BalanceTiers": [
 				0,
