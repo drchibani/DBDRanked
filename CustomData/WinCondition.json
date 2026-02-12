@@ -4,6 +4,579 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 5
+      }
+    ]
+  },
+  {
+    "KillerID": 1,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 10
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 2,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 3,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 4,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 5,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 5
+      }
+    ]
+  },
+  {
+    "KillerID": 6,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 7,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 8,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 9,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 10,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 11,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 12,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 10
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      }
+    ]
+  },
+  {
+    "KillerID": 13,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 14,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 15,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 2,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 16,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 17,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 11
+      }
+    ]
+  },
+  {
+    "KillerID": 18,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 19,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 20,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 21,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 22,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 23,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 24,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 6
+      }
+    ]
+  },
+  {
+    "KillerID": 25,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 10
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 26,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 27,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 2,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 28,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 29,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 30,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 31,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 32,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 33,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 34,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 35,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 10
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 36,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 10
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      }
+    ]
+  },
+  {
+    "KillerID": 37,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 38,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 12
+      }
+    ]
+  },
+  {
+    "KillerID": 39,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  },
+  {
+    "KillerID": 40,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      }
+    ]
+  },
+  {
+    "KillerID": 41,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
         "StagesSecured": 8
       },
       {
