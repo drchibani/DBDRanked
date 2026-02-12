@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Test Queue",
+    "Regions": [
+      0,
+      1
+    ],
+    "Channel": 1462611144479997983
+  },
+  {
+    "Name": "Test Queue #2",
+    "Regions": [
+      0
+    ],
+    "Channel": 1462611155464753366
+  }
+]

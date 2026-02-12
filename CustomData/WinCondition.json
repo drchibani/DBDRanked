@@ -1,0 +1,15 @@
+[
+  {
+    "KillerID": 0,
+    "WinCondition": [
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
+      }
+    ]
+  }
+]

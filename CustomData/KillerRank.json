@@ -1,0 +1,16 @@
+[
+  {
+    "Role": 1442592072157761536,
+    "Emoji": "rank0",
+    "Icon": "DBDRanked/Ranks/Killer/Rank20.png",
+    "RequiredElo": 0,
+    "PipCount": 5
+  },
+  {
+    "Role": 1442592072157761536,
+    "Emoji": "rank0",
+    "Icon": "DBDRanked/Ranks/Killer/Rank1.png",
+    "RequiredElo": 10000,
+    "PipCount": 0
+  }
+]
