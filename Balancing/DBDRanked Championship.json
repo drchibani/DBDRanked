@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1770873993,
+	"Version": 1771210081,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -84,7 +84,6 @@
 				"119",
 				"120",
 				"122",
-				"124",
 				"126",
 				"304",
 				"128",
@@ -193,6 +192,7 @@
 				"109",
 				"253",
 				"121",
+				"124",
 				"127"
 			],
 			"KillerIndvPerkBans": [
@@ -244,6 +244,7 @@
 				"109",
 				"253",
 				"121",
+				"124",
 				"127"
 			],
 			"KillerIndvPerkBans": [],
@@ -288,7 +289,9 @@
 				"109",
 				"112",
 				"253",
+				"118",
 				"121",
+				"124",
 				"127"
 			],
 			"KillerIndvPerkBans": [],
@@ -340,7 +343,9 @@
 				"111",
 				"112",
 				"253",
+				"118",
 				"121",
+				"124",
 				"127"
 			],
 			"KillerIndvPerkBans": [
@@ -835,7 +840,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"85",
@@ -1746,12 +1753,11 @@
 				"38",
 				"58",
 				"63",
-				"64",
 				"78",
 				"80",
-				"82",
 				"103",
-				"115"
+				"115",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3853,16 +3859,18 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
