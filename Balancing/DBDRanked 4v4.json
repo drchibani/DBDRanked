@@ -750,7 +750,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"184"
+				"184",
+				"297"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -1646,7 +1647,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -1669,6 +1670,7 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				224,
 				235,
 				237,
 				238
@@ -3807,7 +3809,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"7"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
