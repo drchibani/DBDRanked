@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1773821318,
+	"Version": 1773956135,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -16,23 +16,24 @@
 				"247",
 				"19",
 				"20",
-				"246",
 				"286",
 				"288",
 				"46",
-				"58",
 				"289",
 				"77",
 				"84",
 				"86",
 				"90",
+				"103",
 				"275",
 				"254"
 			],
 			"KillerIndvPerkBans": [
 				"149",
+				"153",
 				"155",
 				"163",
+				"244",
 				"169",
 				"171",
 				"174",
@@ -41,6 +42,10 @@
 				"256",
 				"205",
 				"284",
+				"211",
+				"216",
+				"218",
+				"235",
 				"238"
 			],
 			"SurvivorComboPerkBans": [],
@@ -75,16 +80,25 @@
 		{
 			"Name": "Healing Perks",
 			"SurvivorIndvPerkBans": [
+				"9",
 				"21",
 				"273",
 				"39",
 				"279",
 				"44",
+				"308",
 				"57",
 				"61",
+				"72",
+				"89",
+				"95",
+				"96",
+				"296",
 				"92",
+				"102",
 				"109",
 				"253",
+				"124",
 				"127"
 			],
 			"KillerIndvPerkBans": [],
@@ -385,15 +399,19 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"20"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1,
+				2,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -405,14 +423,41 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				80,
+				82,
+				83,
+				85,
+				86,
+				87,
+				88,
+				99,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				84,
+				97,
+				98
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -430,8 +475,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
@@ -805,9 +857,14 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"175"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"246",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1350,15 +1407,18 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1,
+				2,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1371,13 +1431,21 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1395,8 +1463,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Trickster",
@@ -1882,7 +1957,9 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				628
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2041,6 +2118,7 @@
 			"SurvivorBalanceTiers": [
 				0,
 				1,
+				2,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -2165,7 +2243,10 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"246",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
