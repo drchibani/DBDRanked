@@ -410,8 +410,8 @@
 			"SurvivorBalanceTiers": [
 				0,
 				1,
-				2,
-				3
+				3,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
