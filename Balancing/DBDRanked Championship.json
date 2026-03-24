@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1774020426,
+	"Version": 1774313290,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -411,8 +411,7 @@
 				"20"
 			],
 			"BalanceTiers": [
-				0,
-				5
+				0
 			],
 			"SurvivorBalanceTiers": [
 				0,
@@ -1952,7 +1951,8 @@
 			"SurvivorBalanceTiers": [
 				0,
 				1,
-				2
+				2,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1965,7 +1965,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				628
+				628,
+				624,
+				619
 			],
 			"ItemWhitelist": [
 				0,
