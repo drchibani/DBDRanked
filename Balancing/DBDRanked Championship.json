@@ -198,7 +198,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "Survivors are not allowed to cleanse Totems until the Exit Gates are powered.",
+			"KillerNotes": "Survivors are not allowed to cleanse any Totems until 5 gens are completed.",
 			"IsDisabled": false,
 			"Map": [
 				"32"
@@ -1104,7 +1104,7 @@
 		},
 		{
 			"Name": "The Legion",
-			"KillerNotes": "Survivors are not allowed to cleanse Totems until the Exit Gates are powered.",
+			"KillerNotes": "Survivors are not allowed to cleanse any Totems until 5 gens are completed.",
 			"IsDisabled": false,
 			"Map": [
 				"28"
@@ -2297,7 +2297,7 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "Survivors are not allowed to cleanse Totems until the Exit Gates are powered.",
+			"KillerNotes": "Survivors are not allowed to cleanse any Totems until 5 gens are completed.",
 			"IsDisabled": false,
 			"Map": [
 				"34"
