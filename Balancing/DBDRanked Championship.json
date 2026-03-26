@@ -92,6 +92,7 @@
 		{
 			"Name": "Healing Perks",
 			"SurvivorIndvPerkBans": [
+				"6",
 				"9",
 				"21",
 				"273",
