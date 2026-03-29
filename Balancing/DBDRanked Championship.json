@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1774318486,
+	"Version": 1774824993,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -413,7 +413,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": "Killer is forced to run Play With Your Food.\nThe Obsession is not allowed to enter a locker. If the Obsession enters a lock accidentally they must immediately exit the locker.",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -427,8 +427,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"181",
-				"209"
+				"181"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1367,8 +1366,8 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "1 survivor is forced to run No Mither.\nThis survivor is not allowed to enter a locker. If this survivor enters a lock accidentally they must immediately exit the locker.",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
@@ -1388,14 +1387,26 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				357,
+				354,
+				349
+			],
+			"ItemWhitelist": [
+				0,
+				4
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2542,7 +2553,7 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"49"
 			],
