@@ -413,7 +413,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "Killer is forced to run Play With Your Food.\nThe Obsession is not allowed to enter a locker. If the Obsession enters a lock accidentally they must immediately exit the locker.",
+			"KillerNotes": "Killer is forced to run Play With Your Food.\nThe Obsession is not allowed to enter a locker. If the Obsession enters a locker accidentally they must immediately exit the locker.",
 			"IsDisabled": false,
 			"Map": [
 				"20"
@@ -1366,7 +1366,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "1 survivor is forced to run No Mither.\nThis survivor is not allowed to enter a locker. If this survivor enters a lock accidentally they must immediately exit the locker.",
+			"KillerNotes": "1 survivor is forced to run No Mither.\nThis survivor is not allowed to enter a locker. If this survivor enters a locker accidentally they must immediately exit the locker.",
 			"IsDisabled": false,
 			"Map": [
 				0
