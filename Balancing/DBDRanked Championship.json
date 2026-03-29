@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1774824993,
+	"Version": 1774825160,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1394,7 +1394,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1424,8 +1424,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Deathslinger",
