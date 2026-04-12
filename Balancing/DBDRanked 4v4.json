@@ -158,7 +158,9 @@
 		},
 		{
 			"Name": "Tier 1",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"98"
+			],
 			"KillerIndvPerkBans": [
 				"132",
 				"170",
