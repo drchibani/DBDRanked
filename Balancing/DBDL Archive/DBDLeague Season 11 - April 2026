@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Championship",
-	"Version": 1776745269,
+	"Version": 1777150764,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1745,6 +1745,7 @@
 				"38",
 				"58",
 				"63",
+				"68",
 				"78",
 				"80",
 				"115",
@@ -2421,7 +2422,15 @@
 				"132"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"39",
+				"44",
+				"308",
+				"50",
+				"57",
+				"61",
+				"92"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
