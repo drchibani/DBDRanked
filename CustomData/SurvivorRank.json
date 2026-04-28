@@ -1,16 +1,142 @@
 [
   {
-    "Role": 1442609830295634080,
-    "Emoji": "rank0s",
+    "Role": 1498046427807355001,
+    "Emoji": "rank20_surv",
     "Icon": "DBDRanked/Ranks/Survivor/Rank20.png",
     "RequiredElo": 0,
+    "PipCount": 3
+  },
+  {
+    "Role": 1498046437131288646,
+    "Emoji": "rank19_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank19.png",
+    "RequiredElo": 200,
+    "PipCount": 3
+  },
+  {
+    "Role": 1498046430948884530,
+    "Emoji": "rank18_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank18.png",
+    "RequiredElo": 400,
+    "PipCount": 4
+  },
+  {
+    "Role": 1439784104098005106,
+    "Emoji": "rank17_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank17.png",
+    "RequiredElo": 600,
+    "PipCount": 4
+  },
+  {
+    "Role": 1498046424586256617,
+    "Emoji": "rank16_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank16.png",
+    "RequiredElo": 800,
+    "PipCount": 4
+  },
+  {
+    "Role": 1498046411432919060,
+    "Emoji": "rank15_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank15.png",
+    "RequiredElo": 1000,
+    "PipCount": 4
+  },
+  {
+    "Role": 1498046421138673705,
+    "Emoji": "rank14_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank14.png",
+    "RequiredElo": 1200,
+    "PipCount": 4
+  },
+  {
+    "Role": 1439784061861236787,
+    "Emoji": "rank13_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank13.png",
+    "RequiredElo": 1400,
+    "PipCount": 4
+  },
+  {
+    "Role": 1498045535746134027,
+    "Emoji": "rank12_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank12.png",
+    "RequiredElo": 1600,
     "PipCount": 5
   },
   {
-    "Role": 1442609830295634080,
-    "Emoji": "rank0s",
+    "Role": 1498045522991255684,
+    "Emoji": "rank11_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank11.png",
+    "RequiredElo": 1800,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498045235123585174,
+    "Emoji": "rank10_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank10.png",
+    "RequiredElo": 2000,
+    "PipCount": 5
+  },
+  {
+    "Role": 1439784018059989186,
+    "Emoji": "rank9_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank9.png",
+    "RequiredElo": 2200,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498045232485503037,
+    "Emoji": "rank8_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank8.png",
+    "RequiredElo": 2400,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498043054978765036,
+    "Emoji": "rank7_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank7.png",
+    "RequiredElo": 2600,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498045226890297515,
+    "Emoji": "rank6_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank6.png",
+    "RequiredElo": 2800,
+    "PipCount": 5
+  },
+  {
+    "Role": 1439783972551786526,
+    "Emoji": "rank5_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank5.png",
+    "RequiredElo": 3000,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498043051501945132,
+    "Emoji": "rank4_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank4.png",
+    "RequiredElo": 3200,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498043049127972894,
+    "Emoji": "rank3_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank3.png",
+    "RequiredElo": 3400,
+    "PipCount": 5
+  },
+  {
+    "Role": 1498043045675794653,
+    "Emoji": "rank2_surv",
+    "Icon": "DBDRanked/Ranks/Survivor/Rank2.png",
+    "RequiredElo": 3600,
+    "PipCount": 5
+  },
+  {
+    "Role": 1439783931045220434,
+    "Emoji": "rank1_surv",
     "Icon": "DBDRanked/Ranks/Survivor/Rank1.png",
-    "RequiredElo": 10000,
+    "RequiredElo": 3800,
     "PipCount": 0
   }
 ]

@@ -1,16 +1,50 @@
 [
   {
-    "Role": 1442641944063905835,
-    "Emoji": "region0",
-    "Name": "Region 0",
-    "Abbreviation": "R0",
-    "Channel": 1462611155464753366
+    "Role": 1439786640426930376,
+    "Emoji": "regionEUW",
+    "Name": "EU",
+    "Abbreviation": "EUW"
   },
   {
-    "Role": 1442642041317363742,
-    "Emoji": "region1",
-    "Name": "Region 1",
-    "Abbreviation": "R1",
-    "Channel": 1462611144479997983
+    "Role": 1439786642968674498,
+    "Emoji": "regionEUC",
+    "Name": "EU",
+    "Abbreviation": "EUC"
+  },
+  {
+    "Role": 1439786646101823529,
+    "Emoji": "regionEUE",
+    "Name": "EU",
+    "Abbreviation": "EUE"
+  },
+  {
+    "Role": 1439888504275337286,
+    "Emoji": "regionME",
+    "Name": "ME",
+    "Abbreviation": "ME"
+  },
+  {
+    "Role": 1439786636824285204,
+    "Emoji": "regionUK",
+    "Name": "UK",
+    "Abbreviation": "UK"
+  },
+  {
+    "Role": 1439786627076718726,
+    "Emoji": "regionNAE",
+    "Name": "NAE",
+    "Abbreviation": "NAE"
+  },
+  {
+    "Role": 1439786624065212417,
+    "Emoji": "regionNAC",
+    "Name": "NAC",
+    "Abbreviation": "NAC"
+  },
+  {
+    "Role": 1439786612224557168,
+    "Emoji": "regionNAW",
+    "Name": "NAW",
+    "Abbreviation": "NAW"
   }
 ]

@@ -1,0 +1,217 @@
+:root {
+    --bg-main: #313338;
+    --bg-card: #2b2d31;
+    --bg-message-hover: #32353b;
+    --border: #3f4147;
+    --text-primary: #dbdee1;
+    --text-secondary: #949ba4;
+    --text-muted: #80848e;
+    --accent: #5865f2;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg-main);
+    color: var(--text-primary);
+    font-family: "gg sans", "Noto Sans", "Segoe UI", Arial, sans-serif;
+    line-height: 1.35;
+}
+
+/* page shell */
+.container {
+    max-width: 980px;
+    margin: 24px auto;
+    padding: 16px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.header {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+}
+
+.header h1 {
+    margin: 0 0 8px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #f2f3f5;
+}
+
+.header p {
+    margin: 2px 0;
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
+.header strong {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+/* channels list */
+.Channels {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.Channel {
+    background: #2f3136;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.ChannelName {
+    margin: 0;
+    padding: 10px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    background: #2b2d31;
+    border-bottom: 1px solid var(--border);
+}
+
+.ChannelMessages {
+    padding: 8px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.UserMessage {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    column-gap: 12px;
+    align-items: start;
+    padding: 1px 12px; /* tighter + consistent */
+    margin: 0; /* reset */
+    transition: background 120ms ease;
+}
+
+.UserMessage:hover {
+    background: var(--bg-message-hover);
+}
+
+.UserMessage:has(.MessageHeader) {
+    margin-top: 10px;
+    padding-top: 2px;
+}
+
+.UserMessage:has(.MessageHeader) + .UserMessage:has(.MessageHeader) {
+    margin-top: 8px;
+}
+
+.UserMessage:not(:has(.MessageHeader)) {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    min-height: 22px;
+}
+
+.UserAvatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 0;
+    background: transparent;
+}
+
+.UserAvatar.Placeholder {
+    visibility: hidden;
+    width: 40px;
+    height: 22px;
+}
+
+.MessageBody {
+    min-width: 0;
+    padding-top: 0;
+}
+
+.MessageHeader {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin: 0 0 2px 0;
+}
+
+.UserName {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.2;
+}
+
+.TimeStamp {
+    color: var(--text-secondary);
+    font-size: 12px;
+    line-height: 1.2;
+}
+
+.MessageContent {
+    color: var(--text-primary);
+    font-size: 15px;
+    line-height: 1.375;
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin: 0;
+}
+
+
+.ChatterTrigger {
+    cursor: pointer;
+}
+
+.ChatterPopover {
+    position: absolute;
+    z-index: 9999;
+    width: 240px;
+    background: #111214;
+    border: 1px solid #2a2d31;
+    border-radius: 10px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.45);
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    gap: 10px;
+}
+
+.ChatterPopover.Hidden {
+    display: none;
+}
+
+.ChatterPopoverAvatar {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.ChatterPopoverName {
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.2;
+}
+
+.ChatterPopoverId {
+    margin-top: 3px;
+    font-size: 12px;
+    color: #b5bac1;
+}
+
+.UserMessage .MessageBody > span:empty + .MessageContent,
+.UserMessage .MessageBody > span:empty ~ .MessageContent {
+    margin-top: 0;
+}
