@@ -17,10 +17,6 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 10
-      },
-      {
-        "GeneratorsRemaining": 0,
         "StagesSecured": 9
       },
       {
@@ -59,12 +55,12 @@
     "KillerID": 4,
     "WinCondition": [
       {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 7
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 6
+        "StagesSecured": 12
       }
     ]
   },
@@ -86,10 +82,6 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
-      },
-      {
-        "GeneratorsRemaining": 0,
         "StagesSecured": 7
       },
       {
@@ -108,10 +100,6 @@
       {
         "GeneratorsRemaining": 0,
         "StagesSecured": 7
-      },
-      {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 6
       }
     ]
   },
@@ -132,16 +120,12 @@
     "KillerID": 9,
     "WinCondition": [
       {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 9
+        "GeneratorsRemaining": 1,
+        "StagesSecured": 12
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
-      },
-      {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 7
+        "StagesSecured": 12
       }
     ]
   },
@@ -176,11 +160,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 10
+        "StagesSecured": 12
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 9
+        "StagesSecured": 11
       }
     ]
   },
@@ -200,10 +184,6 @@
   {
     "KillerID": 14,
     "WinCondition": [
-      {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 9
-      },
       {
         "GeneratorsRemaining": 0,
         "StagesSecured": 8
@@ -357,15 +337,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 10
-      },
-      {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 9
-      },
-      {
-        "GeneratorsRemaining": 0,
         "StagesSecured": 8
+      },
+      {
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 7
       }
     ]
   },
@@ -404,11 +380,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 9
+        "StagesSecured": 8
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
+        "StagesSecured": 7
       }
     ]
   },
@@ -482,21 +458,17 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 9
+        "StagesSecured": 8
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
+        "StagesSecured": 7
       }
     ]
   },
   {
     "KillerID": 35,
     "WinCondition": [
-      {
-        "GeneratorsRemaining": 0,
-        "StagesSecured": 10
-      },
       {
         "GeneratorsRemaining": 0,
         "StagesSecured": 9
@@ -525,11 +497,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
+        "StagesSecured": 7
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 7
+        "StagesSecured": 6
       }
     ]
   },
@@ -537,12 +509,12 @@
     "KillerID": 38,
     "WinCondition": [
       {
-        "GeneratorsRemaining": 1,
-        "StagesSecured": 12
+        "GeneratorsRemaining": 0,
+        "StagesSecured": 9
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 12
+        "StagesSecured": 8
       }
     ]
   },
@@ -586,3 +558,4 @@
     ]
   }
 ]
+
