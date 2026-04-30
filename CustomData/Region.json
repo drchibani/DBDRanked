@@ -1,5 +1,11 @@
 [
   {
+    "Role": 1439786636824285204,
+    "Emoji": "regionUK",
+    "Name": "UK",
+    "Abbreviation": "UK"
+  },
+  {
     "Role": 1439786640426930376,
     "Emoji": "regionEUW",
     "Name": "EU",
@@ -24,10 +30,10 @@
     "Abbreviation": "ME"
   },
   {
-    "Role": 1439786636824285204,
-    "Emoji": "regionUK",
-    "Name": "UK",
-    "Abbreviation": "UK"
+    "Role": 1439786649025249372,
+    "Emoji": "regionNAF",
+    "Name": "NAF",
+    "Abbreviation": "NAF"
   },
   {
     "Role": 1439786627076718726,
@@ -46,5 +52,47 @@
     "Emoji": "regionNAW",
     "Name": "NAW",
     "Abbreviation": "NAW"
+  },
+  {
+    "Role": 1439786630297944114,
+    "Emoji": "regionCAR",
+    "Name": "CAR",
+    "Abbreviation": "CAR"
+  },
+  {
+    "Role": 1439786632978108428,
+    "Emoji": "regionSA",
+    "Name": "SA",
+    "Abbreviation": "SA"
+  },
+  {
+    "Role": 1439888515705081928,
+    "Emoji": "regionOCE",
+    "Name": "OCE",
+    "Abbreviation": "OCE"
+  },
+  {
+    "Role": 1439888518431113286,
+    "Emoji": "regionJP",
+    "Name": "JP",
+    "Abbreviation": "JP"
+  },
+  {
+    "Role": 1439888513184305265,
+    "Emoji": "regionSEA",
+    "Name": "SEA",
+    "Abbreviation": "SEA"
+  },
+  {
+    "Role": 1439888510541631508,
+    "Emoji": "regionEAS",
+    "Name": "EAS",
+    "Abbreviation": "EAS"
+  },
+  {
+    "Role": 1439888508004339732,
+    "Emoji": "regionSAS",
+    "Name": "SAS",
+    "Abbreviation": "SAS"
   }
 ]
