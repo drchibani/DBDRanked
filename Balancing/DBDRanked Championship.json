@@ -137,7 +137,9 @@
 				"254",
 				"36",
 				"129",
-				"130"
+				"130",
+				"21",
+				"44"
 			],
 			"KillerIndvPerkBans": [
 				"131",
@@ -333,7 +335,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"19"
@@ -428,7 +430,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"49"
@@ -523,7 +525,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"31"
@@ -725,7 +727,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 2 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"21"
@@ -873,7 +875,7 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"21"
@@ -1376,7 +1378,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1573,7 +1575,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"19"
@@ -1974,7 +1976,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 2 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"31"
@@ -2584,7 +2586,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"49"
