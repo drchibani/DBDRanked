@@ -365,7 +365,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -420,7 +421,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -460,7 +467,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -515,7 +523,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -560,7 +574,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -615,7 +630,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -759,7 +780,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -814,7 +836,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -905,7 +933,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -960,7 +989,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1408,7 +1443,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1463,7 +1499,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1605,7 +1647,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1660,7 +1703,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2011,7 +2060,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2066,7 +2116,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2618,7 +2674,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2673,7 +2730,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
