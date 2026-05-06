@@ -4,11 +4,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 6
+        "StagesSecured": 7
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 5
+        "StagesSecured": 6
       }
     ]
   },
@@ -30,11 +30,11 @@
     "WinCondition": [
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 9
+        "StagesSecured": 8
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 8
+        "StagesSecured": 7
       }
     ]
   },
@@ -271,18 +271,22 @@
     "KillerID": 20,
     "WinCondition": [
       {
-        "GeneratorsRemaining": 1,
+        "GeneratorsRemaining": 0,
         "StagesSecured": 12
       },
       {
         "GeneratorsRemaining": 0,
-        "StagesSecured": 12
+        "StagesSecured": 11
       }
     ]
   },
   {
     "KillerID": 21,
     "WinCondition": [
+      {
+        "GeneratorsRemaining": 2,
+        "StagesSecured": 12
+      },
       {
         "GeneratorsRemaining": 1,
         "StagesSecured": 12
@@ -367,10 +371,6 @@
       },
       {
         "GeneratorsRemaining": 1,
-        "StagesSecured": 12
-      },
-      {
-        "GeneratorsRemaining": 0,
         "StagesSecured": 12
       }
     ]
