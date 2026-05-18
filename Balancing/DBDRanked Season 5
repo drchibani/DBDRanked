@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked 4v4",
-	"Version": 1779035585,
+	"Version": 1779065057,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -155,7 +155,12 @@
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			]
 		},
 		{
 			"Name": "Tier 2",
@@ -661,12 +666,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"60",
 				"38",
@@ -746,8 +746,7 @@
 			"KillerIndvPerkBans": [
 				"181",
 				"184",
-				"220",
-				"297"
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -1746,14 +1745,10 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"181"
+				"181",
+				"297"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
 				"23",
