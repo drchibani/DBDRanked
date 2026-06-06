@@ -2,7 +2,7 @@
   "Name": "DBDLeague",
   "Version": 1780752402,
   "MaxPerkRepetition": 1,
-  "GlobalNotes": "Cross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU",
+  "GlobalNotes": "Cross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE",
   "Tiers": [
     {
       "Name": "General",
@@ -616,7 +616,7 @@
       "Name": "The Hillbilly",
       "KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
       "IsDisabled": false,
-      "Map": [52, 3],
+      "Map": [31, 3],
       "BalanceTiers": [0, 1],
       "SurvivorBalanceTiers": [0, 1],
       "AntiFacecampPermitted": false,
@@ -1589,7 +1589,7 @@
       "Name": "The Blight",
       "KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
       "IsDisabled": false,
-      "Map": [4, 52],
+      "Map": [4, 31],
       "BalanceTiers": [0, 1],
       "SurvivorBalanceTiers": [0, 1],
       "AntiFacecampPermitted": false,
