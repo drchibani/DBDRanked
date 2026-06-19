@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Slugfest",
-	"Version": 1777839057,
+	"Version": 1781886288,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -29,6 +29,7 @@
 				"247",
 				"19",
 				"20",
+				"21",
 				"73",
 				"22",
 				"23",
@@ -53,6 +54,7 @@
 				"279",
 				"108",
 				"43",
+				"44",
 				"45",
 				"303",
 				"268",
@@ -137,9 +139,7 @@
 				"254",
 				"36",
 				"129",
-				"130",
-				"21",
-				"44"
+				"130"
 			],
 			"KillerIndvPerkBans": [
 				"131",
@@ -147,6 +147,7 @@
 				"133",
 				"134",
 				"136",
+				"245",
 				"137",
 				"138",
 				"139",
@@ -161,6 +162,7 @@
 				"155",
 				"266",
 				"162",
+				"163",
 				"164",
 				"165",
 				"244",
@@ -185,6 +187,7 @@
 				"178",
 				"180",
 				"181",
+				"310",
 				"182",
 				"183",
 				"243",
@@ -229,8 +232,10 @@
 				"221",
 				"222",
 				"223",
+				"311",
 				"225",
 				"226",
+				"227",
 				"228",
 				"231",
 				"232",
@@ -363,7 +368,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -418,7 +424,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -458,7 +470,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -513,7 +526,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -558,7 +577,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -613,7 +633,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -727,18 +753,18 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "Survivors are allowed 2 perks each.",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"21"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -757,7 +783,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -812,7 +839,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -903,7 +936,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -958,7 +992,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1406,7 +1446,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1461,7 +1502,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1603,7 +1650,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1658,7 +1706,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1976,18 +2030,18 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "Survivors are allowed 2 perks each.",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
 			"IsDisabled": false,
 			"Map": [
 				"31"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2009,7 +2063,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2064,7 +2119,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2616,7 +2677,8 @@
 				0,
 				6,
 				10,
-				14
+				14,
+				32
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2671,7 +2733,13 @@
 					"Addons": []
 				},
 				"Fog Vial": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2833,6 +2901,112 @@
 			},
 			"SurvivorOfferings": [],
 			"KillerOfferings": []
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "Survivors are allowed 3 perks each.",
+			"IsDisabled": false,
+			"Map": [
+				"49"
+			],
+			"BalanceTiers": [
+				0,
+				1
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				1
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				851,
+				853,
+				855
+			],
+			"ItemWhitelist": [
+				0,
+				6,
+				10,
+				14,
+				32
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				"Med-Kit": {
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				"Toolbox": {
+					"Addons": [
+						0,
+						2
+					]
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": [
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			},
+			"SurvivorOfferings": [
+				0
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
