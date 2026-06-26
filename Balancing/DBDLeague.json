@@ -3788,11 +3788,11 @@
 		},
 		{
 			"Name": "The Slasher",
-			"KillerNotes": "",
+			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.\n1 Brown Medkit with no addons is allowed.",
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
