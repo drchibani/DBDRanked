@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked 4v4",
-	"Version": 1781637542,
+	"Version": 1783212052,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -123,6 +123,7 @@
 				"204",
 				"278",
 				"205",
+				"208",
 				"284",
 				"211",
 				"212",
@@ -135,8 +136,7 @@
 				"235",
 				"238",
 				"293",
-				"242",
-				"208"
+				"242"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -2964,7 +2964,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"34"
 			],
 			"BalanceTiers": [
 				0,
