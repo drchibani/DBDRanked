@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked 4v4",
-	"Version": 1783212052,
+	"Version": 1783970383,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -16,7 +16,6 @@
 				"7",
 				"258",
 				"11",
-				"13",
 				"16",
 				"17",
 				"18",
@@ -25,11 +24,13 @@
 				"20",
 				"73",
 				"22",
+				"23",
 				"25",
 				"301",
 				"28",
 				"286",
 				"288",
+				"312",
 				"33",
 				"108",
 				"43",
@@ -48,7 +49,6 @@
 				"64",
 				"66",
 				"67",
-				"70",
 				"269",
 				"74",
 				"295",
@@ -142,6 +142,10 @@
 				[
 					"36",
 					"78"
+				],
+				[
+					"13",
+					"112"
 				]
 			],
 			"KillerComboPerkBans": []
@@ -157,23 +161,19 @@
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"13",
 				"21",
 				"60",
 				"34",
 				"38",
+				"39",
 				"279",
 				"280",
-				"261",
 				"69",
 				"76",
 				"80",
@@ -207,6 +207,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"13",
 				"21",
 				"24",
 				"60",
@@ -244,13 +245,13 @@
 			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
 				"1",
-				"300",
+				"3",
 				"8",
+				"13",
 				"21",
 				"24",
 				"60",
 				"246",
-				"27",
 				"273",
 				"34",
 				"38",
@@ -259,6 +260,7 @@
 				"280",
 				"44",
 				"261",
+				"307",
 				"308",
 				"50",
 				"54",
@@ -280,8 +282,7 @@
 				"121",
 				"124",
 				"127",
-				"36",
-				"313"
+				"36"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -293,6 +294,7 @@
 				"1",
 				"8",
 				"10",
+				"13",
 				"21",
 				"24",
 				"60",
@@ -305,6 +307,7 @@
 				"280",
 				"267",
 				"261",
+				"307",
 				"308",
 				"50",
 				"54",
@@ -332,8 +335,7 @@
 				"121",
 				"124",
 				"127",
-				"36",
-				"313"
+				"36"
 			],
 			"KillerIndvPerkBans": [
 				"181"
@@ -603,7 +605,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"23",
-				"44"
+				"44",
+				"53"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -658,7 +661,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"3"
 			],
 			"BalanceTiers": [
 				0,
@@ -672,6 +675,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"13",
 				"60",
 				"38",
 				"80",
@@ -753,7 +757,9 @@
 				"220"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1752,6 +1758,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"13",
 				"23",
 				"60",
 				"246",
@@ -1920,6 +1927,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"3",
 				"53",
 				"112"
 			],
@@ -2061,6 +2069,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"3",
 				"44",
 				"65",
 				"112"
@@ -2118,7 +2127,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2129,10 +2138,13 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"160"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"65"
+				"65",
+				"92"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2345,7 +2357,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"142",
-				"160",
 				"181",
 				"189",
 				"220"
@@ -2430,7 +2441,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -2892,7 +2903,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -3321,24 +3332,27 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
-				2
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"161"
+				"143",
+				"161",
+				"206",
+				"207",
+				"224"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"23",
-				"124"
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3351,7 +3365,18 @@
 				635,
 				636,
 				638,
-				637
+				637,
+				622,
+				624,
+				621,
+				619,
+				627,
+				626,
+				625,
+				623,
+				632,
+				631,
+				630
 			],
 			"ItemWhitelist": [
 				5,
@@ -3557,6 +3582,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"3",
 				"300",
 				"44",
 				"65",
@@ -3619,7 +3645,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -3690,7 +3716,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"16"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -3707,7 +3733,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"246",
-				"50"
+				"50",
+				"57"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3778,6 +3805,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"3",
 				"44",
 				"65",
 				"112"
@@ -3840,7 +3868,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -3853,7 +3881,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"95"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
