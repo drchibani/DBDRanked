@@ -1144,22 +1144,13 @@
 			"IndividualAddonBans": [
 				174
 			],
-			"ItemWhitelist": [
-				5,
-				0,
-				25
-			],
+			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
