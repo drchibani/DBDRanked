@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Master Series",
-	"Version": 1787845895,
+	"Version": 1788004513,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -19,6 +19,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -88,6 +89,7 @@
 				"136",
 				"245",
 				"138",
+				"315",
 				"147",
 				"149",
 				"150",
@@ -257,6 +259,7 @@
 				"307",
 				"308",
 				"50",
+				"319",
 				"54",
 				"57",
 				"61",
@@ -310,6 +313,7 @@
 				"307",
 				"308",
 				"50",
+				"319",
 				"54",
 				"56",
 				"57",
@@ -375,6 +379,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"21",
 				"73",
@@ -425,6 +430,7 @@
 				"49",
 				"50",
 				"51",
+				"319",
 				"294",
 				"262",
 				"53",
@@ -479,6 +485,7 @@
 				"296",
 				"97",
 				"98",
+				"320",
 				"99",
 				"100",
 				"92",
@@ -612,15 +619,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"181"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"23",
-				"44",
-				"53"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1272,9 +1273,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"44"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2865,6 +2864,7 @@
 			"KillerIndvPerkBans": [
 				"143",
 				"181",
+				"317",
 				"161",
 				"206",
 				"207"
@@ -3755,6 +3755,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
