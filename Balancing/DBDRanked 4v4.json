@@ -279,16 +279,6 @@
 			"KillerComboPerkBans": []
 		},
 		{
-			"Name": "Tier 3.5",
-			"SurvivorIndvPerkBans": [
-				"44",
-				"65"
-			],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
-		},
-		{
 			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -569,6 +559,16 @@
 				"36",
 				"129",
 				"130"
+			],
+			"KillerIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 3.5",
+			"SurvivorIndvPerkBans": [
+				"44",
+				"65"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
