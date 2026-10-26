@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Hallowed Championship",
-	"Version": 1792973311,
+	"Version": 1792974489,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -103,6 +103,7 @@
 				"137",
 				"138",
 				"139",
+				"140",
 				"141",
 				"315",
 				"147",
@@ -923,7 +924,9 @@
 				"125"
 			],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"209"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -3578,8 +3581,12 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"60",
+				"38",
 				"69",
-				"95"
+				"80",
+				"95",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
