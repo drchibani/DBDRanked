@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Hallowed Championship",
-	"Version": 1792974489,
+	"Version": 1793048618,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -654,9 +654,9 @@
 		{
 			"Name": "The Wraith",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"35"
+				"20"
 			],
 			"BalanceTiers": [
 				0,
@@ -664,7 +664,7 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				6
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -676,7 +676,10 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"75",
+				"125"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -687,7 +690,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -711,7 +715,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -726,7 +733,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
+			"KillerNotes": "Killer can't hook survivors. Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
 			"IsDisabled": false,
 			"Map": [
 				"3"
@@ -737,15 +744,24 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				1
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"9",
 				"13",
 				"60",
+				"273",
 				"38",
+				"39",
+				"44",
+				"308",
+				"57",
+				"61",
+				"313",
+				"269",
 				"80",
 				"118",
 				"121",
@@ -1246,6 +1262,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"181",
 				"233"
 			],
 			"KillerComboPerkBans": [],
@@ -2181,14 +2198,26 @@
 			"Map": [
 				"4"
 			],
-			"BalanceTiers": [],
-			"SurvivorBalanceTiers": [],
+			"BalanceTiers": [
+				0,
+				1
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				1
+			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"142",
+				"181",
+				"189"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"96"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -3562,7 +3591,7 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "Survivors must equip 1 No Mither.",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
