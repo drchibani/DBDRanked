@@ -1,6 +1,6 @@
 {
-	"Name": "DBDRanked Master Series",
-	"Version": 1791365676,
+	"Name": "DBDRanked Hallowed Championship",
+	"Version": 1792973311,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -54,6 +54,7 @@
 				"64",
 				"66",
 				"67",
+				"68",
 				"70",
 				"74",
 				"295",
@@ -80,7 +81,6 @@
 				"114",
 				"115",
 				"302",
-				"116",
 				"305",
 				"290",
 				"287",
@@ -91,8 +91,8 @@
 				"304",
 				"128",
 				"254",
-				"130",
-				"129"
+				"129",
+				"130"
 			],
 			"KillerIndvPerkBans": [
 				"131",
@@ -145,6 +145,7 @@
 				"198",
 				"201",
 				"203",
+				"151",
 				"271",
 				"278",
 				"205",
@@ -186,7 +187,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"170",
-				"151",
 				"204",
 				"212"
 			],
@@ -217,8 +217,10 @@
 				"36"
 			],
 			"KillerIndvPerkBans": [
+				"132",
 				"170",
-				"181"
+				"181",
+				"317"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -651,7 +653,7 @@
 		{
 			"Name": "The Wraith",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"35"
 			],
@@ -723,7 +725,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
 			"IsDisabled": false,
 			"Map": [
 				"3"
@@ -761,7 +763,8 @@
 				10,
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -788,7 +791,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -806,7 +812,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"20"
 			],
 			"BalanceTiers": [
 				0,
@@ -820,6 +826,7 @@
 			"KillerIndvPerkBans": [
 				"181",
 				"184",
+				"317",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -844,7 +851,8 @@
 				5,
 				0,
 				15,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -874,7 +882,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -889,10 +900,9 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "",
+			"KillerNotes": "Killer must equip Play With Your Food. Survivors cannot enter lockers outside of chase.",
 			"IsDisabled": false,
 			"Map": [
-				"32",
 				"20"
 			],
 			"BalanceTiers": [
@@ -900,27 +910,47 @@
 				5
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				5
+				6
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"70",
+				"75",
+				"125"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				80,
+				82,
+				83,
+				85,
+				86,
+				87,
+				88,
+				99,
+				89,
+				90,
+				91,
+				92,
+				93,
 				94,
-				86
+				95,
+				84,
+				97,
+				98
 			],
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -944,7 +974,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1027,10 +1060,10 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
+			"IsDisabled": false,
 			"Map": [
-				"54"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -1045,8 +1078,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
-				"53",
-				"72"
+				"53"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1057,7 +1089,9 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28,
+				25
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1081,42 +1115,46 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
-				5,
 				2,
-				0,
-				1
+				5,
+				18
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "No players are allowed to enter the basement.",
+			"IsDisabled": false,
 			"Map": [
-				"8"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"181",
+				"317"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"54",
-				"112"
+				"54"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1125,11 +1163,30 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				158
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				799,
+				154,
+				155,
+				156,
+				157
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28,
+				25
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1153,22 +1210,25 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
-				5,
 				2,
-				0,
-				1
+				5,
+				18
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors must equip 4 No Mither.",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -1179,10 +1239,12 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				6
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"233"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1221,14 +1283,13 @@
 				18
 			],
 			"KillerOfferings": [
-				0,
 				1
 			]
 		},
 		{
 			"Name": "The Nightmare",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -1303,7 +1364,7 @@
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"34",
 				"32"
@@ -1452,8 +1513,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"19"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1471,7 +1531,6 @@
 			"SurvivorIndvPerkBans": [
 				"10",
 				"13",
-				"23",
 				"60",
 				"246",
 				"38",
@@ -1496,18 +1555,31 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247,
+				249,
+				250,
+				251,
+				252,
 				253,
 				254,
 				255,
 				256,
-				257
+				258
 			],
 			"ItemWhitelist": [
 				10,
 				5,
 				0,
-				15,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1528,16 +1600,16 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1553,7 +1625,7 @@
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"33"
 			],
@@ -1673,7 +1745,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1697,7 +1770,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1713,7 +1789,7 @@
 		{
 			"Name": "The Ghost Face",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20"
 			],
@@ -1781,92 +1857,22 @@
 		{
 			"Name": "The Demogorgon",
 			"KillerNotes": "",
-			"IsDisabled": true,
-			"Map": [
-				"0"
-			],
-			"BalanceTiers": [
-				0,
-				3
-			],
-			"SurvivorBalanceTiers": [
-				0,
-				3
-			],
-			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"3",
-				"44",
-				"65",
-				"112"
-			],
-			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
-			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
-			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				337
-			],
-			"ItemWhitelist": [
-				5,
-				0
-			],
-			"AddonWhitelist": {
-				"Firecracker": {
-					"Addons": []
-				},
-				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
-				},
-				"Med-Kit": {
-					"Addons": []
-				},
-				"Toolbox": {
-					"Addons": []
-				},
-				"Key": {
-					"Addons": []
-				},
-				"Map": {
-					"Addons": []
-				}
-			},
-			"SurvivorOfferings": [
-				5,
-				2,
-				0,
-				1
-			],
-			"KillerOfferings": [
-				5
-			]
-		},
-		{
-			"Name": "The Oni",
-			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"65"
@@ -1878,12 +1884,29 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				357,
-				358
+				319,
+				320,
+				321,
+				322,
+				323,
+				324,
+				325,
+				326,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337
 			],
 			"ItemWhitelist": [
 				5,
 				0,
+				28,
 				25
 			],
 			"AddonWhitelist": {
@@ -1908,7 +1931,90 @@
 					"Addons": []
 				},
 				"Map": {
+					"Addons": [
+						1,
+						2
+					]
+				}
+			},
+			"SurvivorOfferings": [
+				2,
+				5,
+				18
+			],
+			"KillerOfferings": [
+				0,
+				1
+			]
+		},
+		{
+			"Name": "The Oni",
+			"KillerNotes": "Survivors must equip 1 No Mither. This player cannot enter lockers outside of chase.",
+			"IsDisabled": false,
+			"Map": [
+				"0"
+			],
+			"BalanceTiers": [
+				0,
+				3
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				3
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"71",
+					"80"
+				]
+			],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				357,
+				358,
+				349,
+				354
+			],
+			"ItemWhitelist": [
+				5,
+				0,
+				25,
+				28
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
 					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2072,21 +2178,10 @@
 			"Map": [
 				"4"
 			],
-			"BalanceTiers": [
-				0,
-				1
-			],
-			"SurvivorBalanceTiers": [
-				0,
-				1
-			],
+			"BalanceTiers": [],
+			"SurvivorBalanceTiers": [],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"142",
-				"181",
-				"189",
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2120,7 +2215,8 @@
 				5,
 				0,
 				15,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2150,7 +2246,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2166,7 +2265,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"4"
 			],
@@ -2185,6 +2284,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"9",
 				"273",
 				"39",
 				"44",
@@ -2193,8 +2293,7 @@
 				"57",
 				"61",
 				"269",
-				"92",
-				"9"
+				"92"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2395,7 +2494,7 @@
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8",
 				"33"
@@ -2466,7 +2565,7 @@
 		{
 			"Name": "The Artist",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"5"
 			],
@@ -2610,7 +2709,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"34"
 			],
@@ -2687,7 +2786,7 @@
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0",
 				"8"
@@ -2903,7 +3002,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"33"
 			],
@@ -3139,8 +3238,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"49"
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -3152,6 +3250,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"181",
 				"200"
 			],
 			"KillerComboPerkBans": [],
@@ -3163,16 +3262,30 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				689,
+				679,
+				680,
+				681,
+				682,
+				683,
+				684,
+				685,
+				686,
+				687,
 				688,
+				689,
+				690,
+				691,
+				692,
 				693,
-				698,
-				697
+				694,
+				695,
+				696
 			],
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3196,7 +3309,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3212,7 +3328,7 @@
 		{
 			"Name": "The Lich",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"33",
 				"49"
@@ -3287,7 +3403,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -3299,7 +3415,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"317"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -3321,7 +3438,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3345,7 +3463,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3437,25 +3558,27 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors must equip 1 No Mither.",
 			"IsDisabled": false,
 			"Map": [
 				"8"
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"160"
+				"181",
+				"317"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"69",
 				"95"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3474,7 +3597,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3498,7 +3622,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3588,24 +3715,28 @@
 		},
 		{
 			"Name": "The Krasue",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
+			"IsDisabled": false,
 			"Map": [
-				"8"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"60",
+				"38",
+				"80",
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3621,7 +3752,9 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28,
+				25
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3645,17 +3778,20 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
-				5,
 				2,
-				0,
-				1
+				5,
+				18
 			],
 			"KillerOfferings": [
-				5
+				0,
+				1
 			]
 		},
 		{
