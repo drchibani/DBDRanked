@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Haunted Championship",
-	"Version": 1793048618,
+	"Version": 1793156518,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -508,7 +508,6 @@
 				"72",
 				"74",
 				"295",
-				"75",
 				"76",
 				"77",
 				"78",
@@ -566,7 +565,6 @@
 				"122",
 				"123",
 				"124",
-				"125",
 				"126",
 				"304",
 				"127",
@@ -675,10 +673,7 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"75",
-				"125"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -935,9 +930,7 @@
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
-				"70",
-				"75",
-				"125"
+				"70"
 			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [
@@ -1205,7 +1198,8 @@
 				5,
 				0,
 				28,
-				25
+				25,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1220,7 +1214,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1276,13 +1273,22 @@
 			"IndividualAddonBans": [
 				174
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5,
+				25
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1294,7 +1300,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1886,8 +1895,7 @@
 				4
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				4
+				6
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -1921,7 +1929,7 @@
 				334,
 				335,
 				336,
-				337
+				327
 			],
 			"ItemWhitelist": [
 				5,
@@ -1980,7 +1988,7 @@
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2007,7 +2015,8 @@
 				5,
 				0,
 				25,
-				28
+				28,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2022,7 +2031,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
