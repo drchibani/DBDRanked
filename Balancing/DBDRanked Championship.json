@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked Haunted Championship",
-	"Version": 1793156518,
+	"Version": 1793157090,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1276,7 +1276,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
