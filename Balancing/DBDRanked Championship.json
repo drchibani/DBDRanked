@@ -727,7 +727,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Killer can't hook survivors. Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
+			"KillerNotes": "Killer can't hook survivors until exit gates are powered. Killer must equip Hex Ruin as their only Hex perk. Survivors can only cleanse the Hex once a survivor dies or 1 generator left.",
 			"IsDisabled": false,
 			"Map": [
 				"3"
