@@ -1,6 +1,6 @@
 {
 	"Name": "DBDRanked 4v4",
-	"Version": 1791363167,
+	"Version": 1793666586,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -40,7 +40,6 @@
 				"33",
 				"248",
 				"108",
-				"43",
 				"303",
 				"268",
 				"46",
@@ -194,6 +193,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"170",
+				"317",
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
@@ -223,7 +223,8 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
-				"181"
+				"181",
+				"317"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -295,6 +296,7 @@
 				"38",
 				"39",
 				"279",
+				"43",
 				"280",
 				"44",
 				"261",
@@ -345,6 +347,7 @@
 				"38",
 				"39",
 				"279",
+				"43",
 				"280",
 				"267",
 				"261",
@@ -496,7 +499,6 @@
 				"72",
 				"74",
 				"295",
-				"75",
 				"76",
 				"77",
 				"78",
@@ -554,7 +556,6 @@
 				"122",
 				"123",
 				"124",
-				"125",
 				"126",
 				"304",
 				"127",
@@ -572,6 +573,7 @@
 		{
 			"Name": "Tier 3.5",
 			"SurvivorIndvPerkBans": [
+				"43",
 				"44",
 				"65"
 			],
@@ -684,7 +686,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -708,7 +711,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -759,7 +765,8 @@
 			"ItemWhitelist": [
 				10,
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -786,7 +793,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -839,7 +849,8 @@
 				10,
 				5,
 				0,
-				15
+				15,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -869,7 +880,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -905,6 +919,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"267",
+				"65",
 				"97",
 				"111"
 			],
@@ -920,7 +935,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -944,7 +960,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1057,7 +1076,8 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1081,7 +1101,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1196,7 +1219,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1220,7 +1244,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1250,6 +1277,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"317",
 				"161"
 			],
 			"KillerComboPerkBans": [],
@@ -1265,7 +1293,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1289,7 +1318,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1340,7 +1372,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1364,7 +1397,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1393,7 +1429,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1410,7 +1448,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1434,7 +1473,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1504,7 +1546,7 @@
 				10,
 				5,
 				0,
-				15
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1525,16 +1567,16 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1579,7 +1621,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1603,7 +1646,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1635,7 +1681,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"53"
+				"53",
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1652,7 +1699,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1676,7 +1724,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1719,7 +1770,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1743,7 +1795,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1787,7 +1842,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1811,7 +1867,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1829,7 +1888,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1845,6 +1904,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"65",
 				"92"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1859,7 +1919,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1883,7 +1944,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2094,7 +2158,8 @@
 				10,
 				5,
 				0,
-				15
+				15,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2124,7 +2189,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2158,13 +2226,13 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"9",
 				"39",
 				"44",
 				"308",
 				"57",
 				"61",
-				"124",
-				"9"
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2180,7 +2248,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2204,7 +2273,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2392,7 +2464,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2416,7 +2489,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2449,7 +2525,9 @@
 				"132"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2462,7 +2540,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2486,7 +2565,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2603,7 +2685,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2627,7 +2710,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -2671,7 +2757,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2695,7 +2782,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3124,7 +3214,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3148,7 +3239,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3195,7 +3289,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3219,7 +3314,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3270,7 +3368,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3294,7 +3393,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3343,7 +3445,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3367,7 +3470,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3385,7 +3491,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -3416,7 +3522,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				28
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3440,7 +3547,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
