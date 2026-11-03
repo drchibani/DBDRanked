@@ -760,7 +760,9 @@
 				"118",
 				"121",
 				"36",
-				"71"
+				"71",
+				"26",
+				"111"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1090,7 +1092,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
-				"53"
+				"53",
+				"111"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
